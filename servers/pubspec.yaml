@@ -1,0 +1,5 @@
+name: services
+description: Buytiket
+
+dependencies:
+   http_server: ^0.9.8
